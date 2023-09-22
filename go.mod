@@ -8,7 +8,7 @@ require (
 	github.com/advancedlogic/GoOse v0.0.0-20191112112754-e742535969c1
 	github.com/google/go-cmp v0.5.7
 	github.com/gorilla/mux v1.8.0
-	github.com/otiai10/gosseract/v2 v2.2.4
+	github.com/otiai10/gosseract/v2 v2.4.1
 	github.com/richardlehane/mscfb v1.0.3
 	github.com/richardlehane/msoleps v1.0.3
 	golang.org/x/net v0.7.0

@@ -13,8 +13,8 @@ import (
 
 	"github.com/gorilla/mux"
 
-	"code.sajari.com/docconv"
-	"code.sajari.com/docconv/docd/internal"
+	"github.com/motiv-labs/docconv"
+	"github.com/motiv-labs/docconv/docd/internal"
 )
 
 var (
